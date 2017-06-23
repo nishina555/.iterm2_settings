@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AlternateMouseScroll</key>
+	<true/>
 	<key>AppleAntiAliasingThreshold</key>
 	<integer>1</integer>
 	<key>AppleScrollAnimationEnabled</key>
@@ -511,14 +513,16 @@
 	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>868 341 445 103 0 0 1440 877 </string>
+	<key>NSWindow Frame ProfilesPanel</key>
+	<string>205 458 735 382 0 0 1440 877 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>373 148 599 501 0 0 1440 877 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>174 339 796 473 0 0 1440 877 </string>
+	<string>304 1385 796 473 0 900 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 69 1438 804 0 0 1440 877 </string>
+	<string>0 901 1914 1056 0 900 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>460 145 570 552 0 0 1440 877 </string>
+	<string>714 1125 570 552 0 900 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>268 984 570 552 0 900 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
@@ -2035,7 +2039,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-06-14T02:11:22Z</date>
+	<date>2017-06-21T14:18:35Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SwitchTabModifier</key>
