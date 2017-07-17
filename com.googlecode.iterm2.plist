@@ -416,6 +416,20 @@
 			<key>Text</key>
 			<string></string>
 		</dict>
+		<key>0xf702-0x280000</key>
+		<dict>
+			<key>Action</key>
+			<integer>10</integer>
+			<key>Text</key>
+			<string>b</string>
+		</dict>
+		<key>0xf703-0x280000</key>
+		<dict>
+			<key>Action</key>
+			<integer>10</integer>
+			<key>Text</key>
+			<string>f</string>
+		</dict>
 		<key>0xf729-0x100000</key>
 		<dict>
 			<key>Action</key>
@@ -518,11 +532,11 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>373 148 599 501 0 0 1440 877 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>304 1385 796 473 0 900 1920 1057 </string>
+	<string>285 337 796 473 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 901 1914 1056 0 900 1920 1057 </string>
+	<string>619 319 570 552 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>714 1125 570 552 0 900 1920 1057 </string>
+	<string>543 72 570 552 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>268 984 570 552 0 900 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
@@ -1006,13 +1020,6 @@
 					<key>Text</key>
 					<string>[1;6D</string>
 				</dict>
-				<key>0xf702-0x280000</key>
-				<dict>
-					<key>Action</key>
-					<integer>11</integer>
-					<key>Text</key>
-					<string>0x1b 0x1b 0x5b 0x44</string>
-				</dict>
 				<key>0xf703-0x220000</key>
 				<dict>
 					<key>Action</key>
@@ -1033,13 +1040,6 @@
 					<integer>10</integer>
 					<key>Text</key>
 					<string>[1;6C</string>
-				</dict>
-				<key>0xf703-0x280000</key>
-				<dict>
-					<key>Action</key>
-					<integer>11</integer>
-					<key>Text</key>
-					<string>0x1b 0x1b 0x5b 0x43</string>
 				</dict>
 				<key>0xf704-0x20000</key>
 				<dict>
@@ -2039,7 +2039,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-06-21T14:18:35Z</date>
+	<date>2017-07-06T02:04:51Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SwitchTabModifier</key>
