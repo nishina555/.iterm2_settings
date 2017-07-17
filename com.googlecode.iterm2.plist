@@ -1250,7 +1250,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/toshiharu.nishina</string>
+			<string>/Users/nishina</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -1978,7 +1978,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/toshiharu.nishina</string>
+			<string>/Users/nishina</string>
 		</dict>
 	</array>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
@@ -2029,7 +2029,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/toshiharu.nishina/.iterm2_settings</string>
+	<string>/Users/nishina/.iterm2_settings</string>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
@@ -2799,7 +2799,7 @@
 											<key>Window Type</key>
 											<integer>0</integer>
 											<key>Working Directory</key>
-											<string>/Users/toshiharu.nishina</string>
+											<string>/Users/nishina</string>
 										</dict>
 										<key>Bookmark Name</key>
 										<string>Default</string>
@@ -2812,7 +2812,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/toshiharu.nishina</string>
+											<string>/Users/nishina</string>
 										</dict>
 										<key>Hosts</key>
 										<array/>
@@ -2821,7 +2821,7 @@
 										<key>Program</key>
 										<dict>
 											<key>Command</key>
-											<string>login -fp "toshiharu.nishina"</string>
+											<string>login -fp "nishina"</string>
 											<key>Type</key>
 											<string>Command</string>
 										</dict>
@@ -2844,7 +2844,7 @@
 										<key>TTY</key>
 										<string>/dev/ttys000</string>
 										<key>Working Directory</key>
-										<string>/Users/toshiharu.nishina</string>
+										<string>/Users/nishina</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
@@ -3583,7 +3583,7 @@
 											<key>Window Type</key>
 											<integer>0</integer>
 											<key>Working Directory</key>
-											<string>/Users/toshiharu.nishina</string>
+											<string>/Users/nishina</string>
 										</dict>
 										<key>Bookmark Name</key>
 										<string>Default</string>
@@ -3596,7 +3596,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/toshiharu.nishina</string>
+											<string>/Users/nishina</string>
 										</dict>
 										<key>Hosts</key>
 										<array/>
@@ -3605,7 +3605,7 @@
 										<key>Program</key>
 										<dict>
 											<key>Command</key>
-											<string>login -fp "toshiharu.nishina"</string>
+											<string>login -fp "nishina"</string>
 											<key>Type</key>
 											<string>Command</string>
 										</dict>
@@ -3628,7 +3628,7 @@
 										<key>TTY</key>
 										<string>/dev/ttys001</string>
 										<key>Working Directory</key>
-										<string>/Users/toshiharu.nishina</string>
+										<string>/Users/nishina</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
@@ -4367,7 +4367,7 @@
 											<key>Window Type</key>
 											<integer>0</integer>
 											<key>Working Directory</key>
-											<string>/Users/toshiharu.nishina</string>
+											<string>/Users/nishina</string>
 										</dict>
 										<key>Bookmark Name</key>
 										<string>Default</string>
@@ -4380,7 +4380,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/toshiharu.nishina</string>
+											<string>/Users/nishina</string>
 										</dict>
 										<key>Hosts</key>
 										<array/>
@@ -4389,7 +4389,7 @@
 										<key>Program</key>
 										<dict>
 											<key>Command</key>
-											<string>login -fp "toshiharu.nishina"</string>
+											<string>login -fp "nishina"</string>
 											<key>Type</key>
 											<string>Command</string>
 										</dict>
@@ -4412,7 +4412,7 @@
 										<key>TTY</key>
 										<string>/dev/ttys002</string>
 										<key>Working Directory</key>
-										<string>/Users/toshiharu.nishina</string>
+										<string>/Users/nishina</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
@@ -5176,7 +5176,7 @@
 											<key>Window Type</key>
 											<integer>0</integer>
 											<key>Working Directory</key>
-											<string>/Users/toshiharu.nishina</string>
+											<string>/Users/nishina</string>
 										</dict>
 										<key>Bookmark Name</key>
 										<string>Default</string>
@@ -5189,7 +5189,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/toshiharu.nishina</string>
+											<string>/Users/nishina</string>
 										</dict>
 										<key>Hosts</key>
 										<array/>
@@ -5198,7 +5198,7 @@
 										<key>Program</key>
 										<dict>
 											<key>Command</key>
-											<string>login -fp "toshiharu.nishina"</string>
+											<string>login -fp "nishina"</string>
 											<key>Type</key>
 											<string>Command</string>
 										</dict>
@@ -5221,7 +5221,7 @@
 										<key>TTY</key>
 										<string>/dev/ttys003</string>
 										<key>Working Directory</key>
-										<string>/Users/toshiharu.nishina</string>
+										<string>/Users/nishina</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
@@ -5960,7 +5960,7 @@
 											<key>Window Type</key>
 											<integer>0</integer>
 											<key>Working Directory</key>
-											<string>/Users/toshiharu.nishina</string>
+											<string>/Users/nishina</string>
 										</dict>
 										<key>Bookmark Name</key>
 										<string>Default</string>
@@ -5973,7 +5973,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/toshiharu.nishina</string>
+											<string>/Users/nishina</string>
 										</dict>
 										<key>Hosts</key>
 										<array/>
@@ -5982,7 +5982,7 @@
 										<key>Program</key>
 										<dict>
 											<key>Command</key>
-											<string>login -fp "toshiharu.nishina"</string>
+											<string>login -fp "nishina"</string>
 											<key>Type</key>
 											<string>Command</string>
 										</dict>
@@ -6005,7 +6005,7 @@
 										<key>TTY</key>
 										<string>/dev/ttys004</string>
 										<key>Working Directory</key>
-										<string>/Users/toshiharu.nishina</string>
+										<string>/Users/nishina</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
@@ -6767,7 +6767,7 @@
 											<key>Window Type</key>
 											<integer>0</integer>
 											<key>Working Directory</key>
-											<string>/Users/toshiharu.nishina</string>
+											<string>/Users/nishina</string>
 										</dict>
 										<key>Bookmark Name</key>
 										<string>Default</string>
@@ -6780,7 +6780,7 @@
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/toshiharu.nishina</string>
+											<string>/Users/nishina</string>
 										</dict>
 										<key>Hosts</key>
 										<array/>
@@ -6789,7 +6789,7 @@
 										<key>Program</key>
 										<dict>
 											<key>Command</key>
-											<string>login -fp "toshiharu.nishina"</string>
+											<string>login -fp "nishina"</string>
 											<key>Type</key>
 											<string>Command</string>
 										</dict>
@@ -6812,7 +6812,7 @@
 										<key>TTY</key>
 										<string>/dev/ttys005</string>
 										<key>Working Directory</key>
-										<string>/Users/toshiharu.nishina</string>
+										<string>/Users/nishina</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
