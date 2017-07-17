@@ -3,8 +3,7 @@
 ### エクスポートされた設定ファイルをgitから取得する
 
 ```
-$ mkdir ~/.iterm2_settings
-$ cd ~/.iterm2_settings
+$ cd ~
 $ git clone https://github.com/nishina555/.iterm2_settings.git
 ```
 
@@ -17,3 +16,13 @@ $ git clone https://github.com/nishina555/.iterm2_settings.git
 ## 設定のエクスポート
 
 - Preferences -> General -> Prferences の「Save Current Settings to Folder」を選択する
+
+## メモ
+ユーザー名が違うとターミナル起動時の `login` コマンドがうまくいかなくなるので、masterのユーザー名(toshiahru.nishina)を置換して利用する
+
+## ローカル設定
+ユーザー名を置換した後、ローカルで変更しないといけないもの
+
+### フォントの変更
+- preference -> profiles -> Text -> Font
+- 14pt MigMix 1M Regular
