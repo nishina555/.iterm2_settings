@@ -479,16 +479,20 @@
 	<integer>13</integer>
 	<key>HotkeyCode</key>
 	<integer>36</integer>
+	<key>HotkeyMigratedFromSingleToMulti</key>
+	<true/>
 	<key>HotkeyModifiers</key>
 	<integer>262401</integer>
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
-	<key>NSFontPanelAttributes</key>
-	<string>1, 0</string>
 	<key>NSNavLastRootDirectory</key>
 	<string>~/Desktop</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{712, 448}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
@@ -504,7 +508,7 @@
 	gAKACoAN0xAJChEVGVdOUy5rZXlzoxITFIADgASABaMWFxiABoAHgAiACVpJZGVudGlm
 	aWVyVVdpZHRoVkhpZGRlblEwI0BowAAAAAAACNIhIiMkWiRjbGFzc25hbWVYJGNsYXNz
 	ZXNcTlNEaWN0aW9uYXJ5oiMlWE5TT2JqZWN00xAJCicrGaMSExSAA4AEgAWjLC0YgAuA
-	DIAIgAlRMSNAdCGdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
+	DIAIgAlRMSNAdCAAAAAAANIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
 	TlNLZXllZEFyY2hpdmVy0Tg5VUFycmF5gAEACAARABoAIwAtADIANwBGAEwAUQBcAGMA
 	ZgBoAGoAbABzAHsAfwCBAIMAhQCJAIsAjQCPAJEAnACiAKkAqwC0ALUAugDFAM4A2wDe
 	AOcA7gDyAPQA9gD4APwA/gEAAQIBBAEGAQ8BFAEjAScBLwFBAUQBSgAAAAAAAAIBAAAA
@@ -520,27 +524,46 @@
 	</data>
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
+	<key>NSToolbar Configuration Terminal Toolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>0</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
 	<key>NSToolbar Configuration com.apple.NSColorPanel</key>
 	<dict>
 		<key>TB Is Shown</key>
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>868 341 445 103 0 0 1440 877 </string>
-	<key>NSWindow Frame ProfilesPanel</key>
-	<string>205 458 735 382 0 0 1440 877 </string>
-	<key>NSWindow Frame SessionsPreferences</key>
-	<string>373 148 599 501 0 0 1440 877 </string>
+	<string>418 338 805 77 0 0 1440 877 </string>
+	<key>NSWindow Frame Preferences</key>
+	<string>255 548 606 456 0 0 1440 877 </string>
+	<key>NSWindow Frame SUStatusFrame</key>
+	<string>13 593 400 129 0 0 1440 877 </string>
+	<key>NSWindow Frame SUUpdateAlert</key>
+	<string>410 376 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>285 337 796 473 0 0 1440 877 </string>
+	<string>215 387 916 416 0 0 1440 877 </string>
+	<key>NSWindow Frame UKCrashReporter</key>
+	<string>99 293 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>619 319 570 552 0 0 1440 877 </string>
+	<string>0 325 570 552 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>543 72 570 552 0 0 1440 877 </string>
+	<string>146 519 570 352 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>268 984 570 552 0 900 1920 1057 </string>
+	<string>113 112 570 552 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>289 961 570 552 0 900 1920 1057 </string>
+	<string>225 327 570 551 0 0 1440 878 </string>
+	<key>NSWindow Frame iTerm Window 4</key>
+	<string>246 327 570 551 0 0 1440 878 </string>
+	<key>NSWindow Frame iTerm Window 5</key>
+	<string>267 327 570 551 0 0 1440 878 </string>
 	<key>NeverWarnAboutPossibleOverrides</key>
 	<true/>
 	<key>NeverWarnAboutPossibleOverrides_selection</key>
@@ -1176,7 +1199,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>migmix-1m-regular 14</string>
+			<string>MigMix-1M-Regular 14</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -1981,14 +2004,20 @@
 			<string>/Users/nishina</string>
 		</dict>
 	</array>
+	<key>NoSyncConfirmBeta</key>
+	<true/>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
-	<string>624270B3-153B-4ACC-9117-3CCCAE6A1860</string>
+	<string>7F38A43E-4667-4512-B855-8031A23A6383</string>
 	<key>NoSyncPermissionToShowTip</key>
 	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
-	<real>518062256.56915897</real>
+	<real>490631142.57364202</real>
+	<key>NoSyncTimeOfLastPromo</key>
+	<real>461908381.18411899</real>
+	<key>NoSyncTimeOfLastPromoDownload</key>
+	<real>488623588.87142098</real>
 	<key>OpenArrangementAtStartup</key>
 	<true/>
 	<key>OpenBookmark</key>
@@ -2029,21 +2058,21 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/nishina/.iterm2_settings</string>
+	<string>~/.iterm2_settings</string>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/final.xml?shard=59</string>
+	<string>https://iterm2.com/appcasts/final.xml?shard=70</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-07-06T02:04:51Z</date>
-	<key>SUSendProfileInfo</key>
-	<false/>
+	<date>2017-07-17T12:31:09Z</date>
 	<key>SwitchTabModifier</key>
 	<integer>5</integer>
+	<key>UKCrashReporterLastCrashReportDate</key>
+	<real>1487321600</real>
 	<key>Window Arrangements</key>
 	<dict>
 		<key>default</key>
@@ -6867,6 +6896,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.0.15</string>
+	<string>3.1.beta.5</string>
 </dict>
 </plist>
