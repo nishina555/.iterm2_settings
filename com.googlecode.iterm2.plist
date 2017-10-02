@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AllowDragOfTabIntoNewWindow</key>
+	<false/>
 	<key>AlternateMouseScroll</key>
 	<true/>
 	<key>AppleAntiAliasingThreshold</key>
@@ -479,6 +481,8 @@
 	<integer>13</integer>
 	<key>HotkeyCode</key>
 	<integer>36</integer>
+	<key>HotkeyMigratedFromSingleToMulti</key>
+	<true/>
 	<key>HotkeyModifiers</key>
 	<integer>262401</integer>
 	<key>LoadPrefsFromCustomFolder</key>
@@ -486,7 +490,7 @@
 	<key>NSFontPanelAttributes</key>
 	<string>1, 0</string>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Desktop</string>
+	<string>~</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -504,7 +508,7 @@
 	gAKACoAN0xAJChEVGVdOUy5rZXlzoxITFIADgASABaMWFxiABoAHgAiACVpJZGVudGlm
 	aWVyVVdpZHRoVkhpZGRlblEwI0BowAAAAAAACNIhIiMkWiRjbGFzc25hbWVYJGNsYXNz
 	ZXNcTlNEaWN0aW9uYXJ5oiMlWE5TT2JqZWN00xAJCicrGaMSExSAA4AEgAWjLC0YgAuA
-	DIAIgAlRMSNAdCGdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
+	DIAIgAlRMSNAdKGdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
 	TlNLZXllZEFyY2hpdmVy0Tg5VUFycmF5gAEACAARABoAIwAtADIANwBGAEwAUQBcAGMA
 	ZgBoAGoAbABzAHsAfwCBAIMAhQCJAIsAjQCPAJEAnACiAKkAqwC0ALUAugDFAM4A2wDe
 	AOcA7gDyAPQA9gD4APwA/gEAAQIBBAEGAQ8BFAEjAScBLwFBAUQBSgAAAAAAAAIBAAAA
@@ -529,12 +533,14 @@
 	<string>868 341 445 103 0 0 1440 877 </string>
 	<key>NSWindow Frame ProfilesPanel</key>
 	<string>205 458 735 382 0 0 1440 877 </string>
+	<key>NSWindow Frame SUUpdateAlert</key>
+	<string>410 374 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
-	<string>373 148 599 501 0 0 1440 877 </string>
+	<string>373 148 606 456 0 0 1440 877 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>285 337 796 473 0 0 1440 877 </string>
+	<string>319 1140 796 473 0 900 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>619 319 570 552 0 0 1440 877 </string>
+	<string>741 1039 1361 468 0 900 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>543 72 570 552 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -1985,6 +1991,10 @@
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>624270B3-153B-4ACC-9117-3CCCAE6A1860</string>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<true/>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
+	<integer>1</integer>
 	<key>NoSyncPermissionToShowTip</key>
 	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
@@ -2039,7 +2049,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-07-06T02:04:51Z</date>
+	<date>2017-10-01T16:54:58Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SwitchTabModifier</key>
@@ -6867,6 +6877,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.0.15</string>
+	<string>3.1.2</string>
 </dict>
 </plist>
